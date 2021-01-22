@@ -197,6 +197,7 @@
                     </li>
                     <?php } ?>
                     <?php
+                    /*
                     if(get_permission('salary_template', 'is_view') ||
                     get_permission('salary_assign', 'is_view') ||
                     get_permission('salary_payment', 'is_view') ||
@@ -322,6 +323,7 @@
                         </ul>
                     </li>
                     <?php } ?>
+                    */ ?>
                     <?php
                     if(get_permission('classes', 'is_view') ||
                     get_permission('section', 'is_view') ||
